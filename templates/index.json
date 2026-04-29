@@ -120,14 +120,14 @@
         "1635927863703110df-1": {
           "type": "heading",
           "settings": {
-            "title": "Returns within 30 days",
+            "title": "Returnering inden for 30 dage",
             "use_h1": true
           }
         },
         "1635927863703110df-2": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Our commitment is to guarantee customer satisfaction. If you are not satisfied with your purchase, rest assured that we offer a 30-day return period.</strong></p>",
+            "text": "<p><strong>Vi går højt op i at sikre, at vores kunder er tilfredse. Hvis du ikke er tilfreds med dit køb, kan du være sikker på, at vi tilbyder en 30-dages returret.</strong></p>",
             "enlarge_text": true
           }
         }
