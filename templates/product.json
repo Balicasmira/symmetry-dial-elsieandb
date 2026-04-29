@@ -197,7 +197,7 @@
       "settings": {
         "image": "shopify://shop_images/2148148104.jpg",
         "image_2": "shopify://shop_images/14472.jpg",
-        "image_width": 390,
+        "image_width": 500,
         "image_link": "",
         "image_position": "left",
         "text_alignment": "left",
@@ -208,7 +208,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "title": "BestSeller",
+        "title": "Bestseller",
         "collection": "frontpage",
         "show_vendor": false,
         "enable_carousel": true,
