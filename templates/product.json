@@ -175,14 +175,14 @@
         "heading_f3RGGC": {
           "type": "heading",
           "settings": {
-            "title": "30-Day Return Guarantee",
+            "title": "30 dages returret",
             "use_h1": false
           }
         },
         "text_YjWzf8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>With our 30-day return guarantee, you can shop with complete peace of mind. If, for any reason, you are not satisfied with your purchase, you have 30 days to return the product.</strong></p>",
+            "text": "<p><strong>Takket være vores 30 dages returret kan du handle med ro i sindet. Hvis du af en eller anden grund ikke er tilfreds med dit køb, har du 30 dage til at returnere varen.</strong></p>",
             "enlarge_text": false
           }
         }
@@ -193,6 +193,8 @@
       ],
       "name": "Image with text",
       "settings": {
+        "image": "shopify://shop_images/2148148104.jpg",
+        "image_2": "shopify://shop_images/14472.jpg",
         "image_width": 390,
         "image_link": "",
         "image_position": "left",
