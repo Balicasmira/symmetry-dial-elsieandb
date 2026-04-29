@@ -306,12 +306,12 @@
       "settings": {
         "full_width": true,
         "color_scheme": "2",
-        "heading": "Store name: Elsie & Betts",
-        "address": "<p><strong>Store Address:</strong> 34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom</p><p><strong>Opening Hours::</strong></p><ul><li>Monday to Friday: 10:00 AM – 5:00 PM</li><li>Saturday: 10:00 AM – 5:00 PM</li><li>Sunday: 11:00 AM – 3:00 PM</li></ul>",
-        "button": "Directions",
+        "heading": "Butiksnavn: Paper Doll CPH",
+        "address": "<p><strong>Butiksadresse: </strong>Grønnegade 41, kld.<br/>1107 København K, Danmark</p><p><strong>E-mail:</strong> hello@paperdollcph.dk</p><p><strong>Telefonnummer: </strong>+4542909506</p><p><strong>Åbningstider: <br/></strong>- Mandag til fredag: 08:00 – 17:00<br/>- Lørdag og søndag: 10:00 – 16:00</p>",
+        "button": "Kørselsvejledning",
         "show_pin": true,
         "show_feature_image": false,
-        "map_address": "34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom",
+        "map_address": "Kompagnistræde 12, 1208 København, Denmark",
         "api_key": "",
         "map_type": "embed",
         "map_style": "dark"
