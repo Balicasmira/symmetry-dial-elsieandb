@@ -64,10 +64,33 @@
       "settings": {
         "title": "Ofte stillede spørgsmål"
       }
+    },
+    "rich_text_wHheXX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_HnQMEx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jeg er ikke tilfreds med min pakke. Besøg venligst vores side om ombytning og returnering for at returnere din pakke.<br/><br/>Hvis du ikke kan finde svaret på dit spørgsmål, er du altid velkommen til at kontakte os:</p><p><strong>E-mail:</strong> hello@paperdollcph.dk</p><p><strong>Telefonnummer: </strong>+4542909506</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_HnQMEx"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "height": "medium",
+        "text_alignment": "left",
+        "full_width": false,
+        "color_scheme": "default"
+      }
     }
   },
   "order": [
     "rich_text_GJykAT",
-    "faq-content-1"
+    "faq-content-1",
+    "rich_text_wHheXX"
   ]
 }
