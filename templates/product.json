@@ -280,7 +280,7 @@
       ],
       "name": "Multi-column",
       "settings": {
-        "title": "Why Choose us ?",
+        "title": "",
         "media_aspect_ratio": "s",
         "media_width": 100,
         "text_alignment": "center",
