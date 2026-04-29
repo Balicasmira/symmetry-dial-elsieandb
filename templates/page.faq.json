@@ -25,11 +25,19 @@
             "title": "Hvor kan jeg finde min sporingskode?",
             "answer": "<p>Så snart din ordre er afsendt, modtager du automatisk en sporingskode. Tjek også din spam-mappe, da vores e-mails nogle gange havner der. Bemærk, at det kan tage lidt tid, før dit sporingslink bliver aktivt.</p>"
           }
+        },
+        "question_wNiCTn": {
+          "type": "question",
+          "settings": {
+            "title": "Hvordan kan jeg spore min ordre?",
+            "answer": "<p>Du kan spore din ordre ved hjælp af det sporingsnummer, du har modtaget via e-mail. Indtast sporingsnummeret på vores sporingsside for at se status på din levering. Du kan gøre det her.</p>"
+          }
         }
       },
       "block_order": [
         "question-1",
-        "question-2"
+        "question-2",
+        "question_wNiCTn"
       ],
       "settings": {
         "title": "Ofte stillede spørgsmål"
