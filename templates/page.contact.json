@@ -12,6 +12,13 @@
     "rich_text_ALQtHp": {
       "type": "rich-text",
       "blocks": {
+        "heading_xdLLDG": {
+          "type": "heading",
+          "settings": {
+            "title": "Kontakt os",
+            "use_h1": false
+          }
+        },
         "text_prahTg": {
           "type": "text",
           "settings": {
@@ -21,6 +28,7 @@
         }
       },
       "block_order": [
+        "heading_xdLLDG",
         "text_prahTg"
       ],
       "name": "Rich text",
