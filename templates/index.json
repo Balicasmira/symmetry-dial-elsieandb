@@ -56,22 +56,24 @@
         "16359279164ff7d3f3-0": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/20159.jpg",
             "enlarge_media": false,
             "subheading": "",
-            "title": "Men's Selection",
+            "title": "Herre",
             "button_label": "",
-            "link": "shopify://collections/men-collection",
+            "link": "shopify://collections/dame",
             "text_alignment": "bottom left"
           }
         },
         "16359279164ff7d3f3-1": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/2149746742.jpg",
             "enlarge_media": false,
             "subheading": "",
-            "title": "Women's Selection",
+            "title": "Dame",
             "button_label": "",
-            "link": "shopify://collections/women-collection",
+            "link": "shopify://collections/dame",
             "text_alignment": "bottom left"
           }
         }
