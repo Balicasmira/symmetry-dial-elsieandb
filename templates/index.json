@@ -149,8 +149,8 @@
     "featured_collection_dA3JmY": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW ARRIVALS MEN",
-        "collection": "men-collection",
+        "title": "NYHEDER TIL HERRE",
+        "collection": "herre",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
