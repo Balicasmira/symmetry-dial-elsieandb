@@ -76,17 +76,19 @@
             "show_in_quickbuy": false
           }
         },
-        "description": {
-          "type": "description",
-          "name": "Des",
+        "accordion_b8WfgP": {
+          "type": "accordion",
           "settings": {
-            "show_in_tab": true,
-            "open_tab": false,
+            "title": "Beskrivelse",
             "icon": "heart",
+            "content": "{{ product.description }}",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
             "show_in_quickbuy": false
           }
         },
-        "accordion_b8WfgP": {
+        "accordion_bmx6KR": {
           "type": "accordion",
           "settings": {
             "title": "Forsendelsesoplysninger",
@@ -133,8 +135,8 @@
         "divider_mHJB3G",
         "buy-buttons",
         "custom_liquid_mhqWgz",
-        "description",
         "accordion_b8WfgP",
+        "accordion_bmx6KR",
         "accordion_EwCymW",
         "accordion_bTM3cw"
       ],
