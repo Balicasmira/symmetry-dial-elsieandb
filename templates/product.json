@@ -239,12 +239,24 @@
     "multi_column_qjHh6K": {
       "type": "multi-column",
       "blocks": {
+        "text_block_bnqTgb": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/2_120x_ded5a07c-3932-42d7-827e-4ff3cbb34b2f.avif",
+            "title": "Returret inden for 30 dage",
+            "text": "<p><strong>Er du ikke tilfreds? Få pengene tilbage!</strong></p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
         "text_block_ThQPNW": {
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Free Shipping",
-            "text": "<p><strong>Enjoy free shipping on every order!</strong></p>",
+            "image": "shopify://shop_images/1_120x_c026b12f-1d81-40a2-9f27-f20da5ec6573.avif",
+            "title": "Gratis levering",
+            "text": "<p><strong>Få nu gratis levering på alle ordrer!</strong></p>",
             "button_label": "",
             "link": ""
           }
@@ -253,36 +265,25 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Secure Payment",
-            "text": "<p><strong>Shop with complete peace of mind with our secure payment options.</strong></p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "text_block_bnqTgb": {
-          "type": "text_block",
-          "settings": {
-            "enable_media": true,
-            "title": "30-Day Returns",
-            "text": "<p><strong>Not satisfied? Get a full refund!</strong></p>",
+            "image": "shopify://shop_images/3_120x_c99aa344-52af-40ac-a045-8bc6a6046084.avif",
+            "title": "Sikker betaling",
+            "text": "<p><strong>Handl trygt med vores sikre betalingsmuligheder.</strong></p>",
             "button_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "text_block_bnqTgb",
         "text_block_ThQPNW",
-        "text_block_HfGNEH",
-        "text_block_bnqTgb"
+        "text_block_HfGNEH"
       ],
-      "custom_css": [
-        "{background-color: #f5f5f5;}"
-      ],
+      "custom_css": [],
       "name": "Multi-column",
       "settings": {
         "title": "",
         "media_aspect_ratio": "s",
-        "media_width": 100,
+        "media_width": 70,
         "text_alignment": "center",
         "button_style": "primary",
         "color_scheme": "default"
