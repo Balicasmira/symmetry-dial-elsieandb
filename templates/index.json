@@ -68,7 +68,7 @@
         "16359279164ff7d3f3-1": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/2149746742.jpg",
+            "image": "shopify://shop_images/6896.jpg",
             "enlarge_media": false,
             "subheading": "",
             "title": "Dame",
@@ -186,8 +186,8 @@
         "2e5b8e45-d07b-473e-9562-15a4d3d196d5": {
           "type": "button",
           "settings": {
-            "button_label": "Read more",
-            "button_link": "shopify://pages/about-us",
+            "button_label": "Læs mere",
+            "button_link": "shopify://pages/om-os",
             "button_style": "primary"
           }
         }
@@ -199,6 +199,8 @@
         "2e5b8e45-d07b-473e-9562-15a4d3d196d5"
       ],
       "settings": {
+        "image": "shopify://shop_images/Paper_Doll_CPH.jpg",
+        "image_2": "shopify://shop_images/Paper_Doll_CPH-11.jpg",
         "image_width": 390,
         "image_link": "",
         "image_position": "left",
