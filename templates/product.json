@@ -160,7 +160,7 @@
         "enable_video_autoplay": false,
         "enable_video_looping": false,
         "enable_media_grouping": false,
-        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+        "media_grouping_option": "Farve,Color,Couleur,Farbe"
       }
     },
     "related-products": {
