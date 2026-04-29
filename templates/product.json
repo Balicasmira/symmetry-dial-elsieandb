@@ -82,16 +82,16 @@
           "settings": {
             "show_in_tab": true,
             "open_tab": false,
-            "icon": "",
+            "icon": "heart",
             "show_in_quickbuy": false
           }
         },
         "accordion_b8WfgP": {
           "type": "accordion",
           "settings": {
-            "title": "Shipping Information",
-            "icon": "",
-            "content": "<p><strong>Enjoy free delivery on every order! </strong></p><ul><li><strong>Estimated Total Delivery Time: 7 – 10 business days</strong></li></ul>",
+            "title": "Forsendelsesoplysninger",
+            "icon": "truck",
+            "content": "<p><strong>Få gratis levering på alle ordrer! </strong></p><ul><li>Anslået leveringstid: 7–10 hverdage</li></ul>",
             "page": "",
             "custom_liquid": "",
             "open": false,
@@ -101,9 +101,9 @@
         "accordion_EwCymW": {
           "type": "accordion",
           "settings": {
-            "title": "Returns within 30 days",
-            "icon": "",
-            "content": "<p><strong>Not satisfied? Get a full refund!</strong></p>",
+            "title": "Returnering inden for 30 dage",
+            "icon": "return",
+            "content": "<p><strong>Er du ikke tilfreds? Få alle pengene tilbage!</strong></p>",
             "page": "",
             "custom_liquid": "",
             "open": false,
@@ -113,9 +113,9 @@
         "accordion_bTM3cw": {
           "type": "accordion",
           "settings": {
-            "title": "Secure payment",
-            "icon": "",
-            "content": "<p><strong>Shop with complete peace of mind using our secure payment options.</strong></p>",
+            "title": "Sikker betaling",
+            "icon": "credit_card",
+            "content": "<p>Handl med fuld tryghed ved hjælp af vores sikre betalingsmuligheder.</p>",
             "page": "",
             "custom_liquid": "",
             "open": false,
