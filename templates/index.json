@@ -95,7 +95,7 @@
         "full_width": false,
         "color_scheme": "default",
         "enable_carousel": true,
-        "overlay_style": "full",
+        "overlay_style": "shadow",
         "overlay_padding": "standard",
         "button_style": "primary"
       }
