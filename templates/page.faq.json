@@ -9,6 +9,28 @@
  */
 {
   "sections": {
+    "rich_text_GJykAT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_a9a6AY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Det er dejligt, at du prøver at kontakte os!<br/>Har du et spørgsmål om din pakke?<br/>Læs venligst først vores FAQ nedenfor, som indeholder de mest stillede spørgsmål. Kan du ikke finde svaret?<br/>Du kan altid kontakte os nederst på denne side.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_a9a6AY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "height": "medium",
+        "text_alignment": "left",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
     "faq-content-1": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -45,6 +67,7 @@
     }
   },
   "order": [
+    "rich_text_GJykAT",
     "faq-content-1"
   ]
 }
