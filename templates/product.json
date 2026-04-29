@@ -159,8 +159,8 @@
         "alt_text_icon": "",
         "enable_video_autoplay": false,
         "enable_video_looping": false,
-        "enable_media_grouping": false,
-        "media_grouping_option": "Farve,Color,Couleur,Farbe"
+        "enable_media_grouping": true,
+        "media_grouping_option": "{{ product.metafields.shopify[\"color-pattern\"] | metafield_text: field: 'label' }}"
       }
     },
     "related-products": {
