@@ -313,10 +313,12 @@
         "button": "Kørselsvejledning",
         "show_pin": true,
         "show_feature_image": false,
+        "feature_image": "shopify://shop_images/2148151922.jpg",
         "map_address": "Kompagnistræde 12, 1208 København, Denmark",
         "api_key": "",
         "map_type": "embed",
-        "map_style": "dark"
+        "map_style": "dark",
+        "background_image": "shopify://shop_images/2148151922.jpg"
       }
     },
     "163592857728b8bdc2": {
