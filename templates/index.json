@@ -103,8 +103,8 @@
     "16359278676808bea5": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW ARRIVALS WOMEN",
-        "collection": "women-collection",
+        "title": "NYHEDER TIL KVINDER",
+        "collection": "dame",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
