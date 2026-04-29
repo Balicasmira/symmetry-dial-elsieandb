@@ -12,13 +12,6 @@
     "rich_text_ALQtHp": {
       "type": "rich-text",
       "blocks": {
-        "heading_xdLLDG": {
-          "type": "heading",
-          "settings": {
-            "title": "Kontakt os",
-            "use_h1": false
-          }
-        },
         "text_prahTg": {
           "type": "text",
           "settings": {
@@ -28,7 +21,6 @@
         }
       },
       "block_order": [
-        "heading_xdLLDG",
         "text_prahTg"
       ],
       "name": "Rich text",
@@ -69,7 +61,7 @@
       "settings": {
         "show_page_title": true,
         "use_columns": true,
-        "contact_title": "Contact us",
+        "contact_title": "",
         "contact_text": ""
       }
     }
