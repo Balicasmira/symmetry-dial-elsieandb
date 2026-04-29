@@ -201,10 +201,10 @@
       "settings": {
         "image": "shopify://shop_images/Paper_Doll_CPH.jpg",
         "image_2": "shopify://shop_images/Paper_Doll_CPH-11.jpg",
-        "image_width": 390,
+        "image_width": 500,
         "image_link": "",
         "image_position": "left",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "color_scheme": "default"
       }
     },
